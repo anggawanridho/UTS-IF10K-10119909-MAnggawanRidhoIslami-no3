@@ -8,6 +8,6 @@ package uts_pbo;
 
 public class Trash extends Metal {
     public void genreTrash(String artistName){
-
+        System.out.println(artistName + " adalah musisi NewSkul Trash");
     }
 }

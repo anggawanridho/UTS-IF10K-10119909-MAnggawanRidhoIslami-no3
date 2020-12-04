@@ -8,6 +8,6 @@ package uts_pbo;
 
 public class OldSkul extends HardCore {
     public void genreOldSkulHardcore(String artistName){
-
+        System.out.println(artistName + " adalah musisi Oldskul Hardcore");
     }
 }

@@ -8,6 +8,6 @@ package uts_pbo;
 
 public class GrindCore extends Metal {
     public void genreGrindCore(String artistName){
-
+        System.out.println(artistName + " adalah musisi Grindcore");
     }
 }

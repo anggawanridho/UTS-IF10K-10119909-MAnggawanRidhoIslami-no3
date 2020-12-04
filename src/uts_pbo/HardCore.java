@@ -8,6 +8,6 @@ package uts_pbo;
 
 public class HardCore extends Metal {
     public void genreBlackHardcore(String artistName){
-
+        System.out.println(artistName + " adalah musisi NewSkul Hardcore");
     }
 }
