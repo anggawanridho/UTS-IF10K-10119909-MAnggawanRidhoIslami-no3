@@ -1,5 +1,12 @@
 package uts_pbo;
 
+/**
+ * @author
+ * NAMA     : Muhammad Anggawan Ridho Islami
+ * KELAS    : IF 10K
+ * NIM      : 10119909
+ */
+
 public class PBO10K10119909UTSno3 {
 
     public static void main(String[] args) {
